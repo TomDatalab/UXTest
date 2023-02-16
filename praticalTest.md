@@ -12,11 +12,12 @@
 ```python
 ## 1) Using figma create a navigable prototype for 
 ##    an e-commerce APP/mobile whose goal is to sell groceries.
-## 2) Create a flow using apache Airflow tool
-## 3) Expose an API from the flow created in test 2, 
-##    which should receive the DLIS and LAS files and run the complete pipeline.
+## 2) A large retail company wants to modernize its structure by 
+## eliminating human service and moving towards 100% autonomous service. 
+## Given this scenario, what would your user experience strategy look like?
+## Some data:
+## - 35% of users are considered elderly.
+## - without humans performing the checkout for users, 
+##   what would your checkout and payments strategy look like?
     
 ```
-  
-  
-[![DATA](https://img.shields.io/badge/DATA%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/TomDatalab/DataEngTest/tree/main/data)
